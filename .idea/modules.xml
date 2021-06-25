@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DaggerHilt_Part_2_kt.iml" filepath="$PROJECT_DIR$/.idea/modules/DaggerHilt_Part_2_kt.iml" group="DaggerHilt_Part_2_kt" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="DaggerHilt Part 2 kt/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DaggerHilt_Part_2_kt.iml" filepath="$PROJECT_DIR$/.idea/modules/DaggerHilt_Part_2_kt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DaggerHilt_Part_2_kt.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DaggerHilt_Part_2_kt.app.iml" />
     </modules>
   </component>
 </project>
